@@ -1,10 +1,15 @@
 {
   "cSpell.words": [
+    "alteracao",
     "ANIVERSARIOS",
+    "cnpj",
     "codigo",
     "codigocd",
+    "criacao",
     "datacompra",
+    "descricao",
     "endereco",
+    "enderecos",
     "funcionario",
     "localcompra",
     "lotacao",
@@ -12,9 +17,11 @@
     "Marcio",
     "nasc",
     "nivel",
+    "paises",
     "preco",
     "promocao",
     "Qtde",
+    "razao",
     "REFEICOES",
     "SUBQUERIES",
     "valorpago"
